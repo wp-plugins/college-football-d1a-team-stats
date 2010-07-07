@@ -6,11 +6,11 @@ Requires at least: 2.2.0
 Tested up to: 3.0
 Stable tag: 0.8.1
 
-NCAA Football Team Stats Division 1A Team Stats allows bloggers display an NCAA Football team's standings within their sidebar.
+NCAA Football Team Stats Division 1A Team Stats allows bloggers display an NCAAF Football team's standings within their sidebar.
 
 == Description ==
 
-NCAA College Football Team Stats Division 1A Team Stats allows bloggers display an NCAA Football team's standings within their sidebar.
+NCAA College Football Team Stats Division 1A Team Stats allows bloggers display an NCAAF Football team's standings within their sidebar.
 
 CFB D1A Team Stats plugin can be added to any blog with a dynamic sidebar. Once installed, the blogger can choose their favorite CFB D1A Team 
 and the type of display they want (compact or large). The stats are updated each week of the CFB D1A regular season, so that blog 
