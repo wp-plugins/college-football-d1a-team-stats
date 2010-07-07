@@ -12,6 +12,121 @@ NCAA Football Team Stats Division 1A Team Stats allows bloggers display an NCAAF
 
 NCAA College Football Team Stats Division 1A Team Stats allows bloggers display an NCAAF Football team's standings within their sidebar.
 
+NCAA Football D1A Team List Reference (For D1AA Teams see our other plugin):
+
+Air Force Falcons
+Akron Zips
+Alabama Crimson Tide
+Arizona State Sun Devils
+Arizona Wildcats
+Arkansas Razorbacks
+Arkansas State Red Wolves
+Army Black Knights
+Auburn Tigers
+Ball State Cardinals
+Baylor Bears
+Boise State Broncos
+Boston College Eagles
+Bowling Green Falcons
+Brigham Young Cougars
+Buffalo Bulls
+California Golden Bears
+Central Michigan Chippewas
+Clemson Tigers
+Colorado Buffaloes
+Colorado State Rams
+Duke Blue Devils
+East Carolina Pirates
+Eastern Michigan Eagles
+FIU Golden Panthers
+Florida Atlantic Owls
+Florida Gators
+Florida State Seminoles
+Fresno State Bulldogs
+Georgia Bulldogs
+Georgia Tech Yellow Jackets
+Hawaii Warriors
+Houston Cougars
+Idaho Vandals
+Illinois Fighting Illini
+Indiana Hoosiers
+Iowa Hawkeyes
+Iowa State Cyclones
+Kansas Jayhawks
+Kansas State Wildcats
+Kent State Golden Flashes
+Kentucky Wildcats
+Louisiana-Lafayette Ragin' Cajuns
+Louisiana-Monroe Warhawks
+Louisiana Tech Bulldogs
+LSU Tigers
+Marshall Thundering Herd
+Maryland Terrapins
+Memphis Tigers
+Miami (FL) Hurricanes
+Miami (OH) RedHawks
+Michigan State Spartans
+Michigan Wolverines
+Middle Tennessee Blue Raiders
+Minnesota Golden Gophers
+Mississippi Rebels
+Mississippi State Bulldogs
+Missouri Tigers
+Navy Midshipmen
+Nebraska Cornhuskers
+Nevada Wolf Pack
+New Mexico Lobos
+New Mexico State Aggies
+North Carolina State Wolfpack
+North Carolina Tar Heels
+North Texas Mean Green
+Northern Illinois Huskies
+Northwestern Wildcats
+Notre Dame Fighting Irish
+Ohio Bobcats
+Ohio State Buckeyes
+Oklahoma Sooners
+Oklahoma State Cowboys
+Oregon Ducks
+Oregon State Beavers
+Penn State Nittany Lions
+Purdue Boilermakers
+Rice Owls
+San Diego State Aztecs
+San Jose State Spartans
+South Carolina Gamecocks
+Southern Methodist Mustangs
+Southern Miss Golden Eagles
+Stanford Cardinal
+TCU Horned Frogs
+Temple Owls
+Tennessee Volunteers
+Texas A&M Aggies
+Texas Longhorns
+Texas Tech Red Raiders
+Toledo Rockets
+Troy Trojans
+Tulane Green Wave
+Tulsa Golden Hurricane
+UAB Blazers
+UCF Knights
+UCLA Bruins
+UNLV Rebels
+USC Trojans
+Utah State Aggies
+Utah Utes
+UTEP Miners
+Vanderbilt Commodores
+Virginia Cavaliers
+Virginia Tech Hokies
+Wake Forest Demon Deacons
+Washington Huskies
+Washington State Cougars
+Western Kentucky Hilltoppers
+Western Michigan Broncos
+Wisconsin Badgers
+Wyoming Cowboys
+
 CFB D1A Team Stats plugin can be added to any blog with a dynamic sidebar. Once installed, the blogger can choose their favorite CFB D1A Team 
 and the type of display they want (compact or large). The stats are updated each week of the CFB D1A regular season, so that blog 
 visitors can keep track of all the important CFB D1A team standings and stats. Additionally, teams qualifying for post-season play are denoted automatically 
@@ -79,6 +194,9 @@ website? Sure. Can I post on an adult website? Sure - Keep it legal. Can I post 
 the CFB_D1A Stats through the form on this page, since you already have the software. This request form is for users who do not use WP, or would like a simplified version of the CFB_D1A stats plugin.
 
 == Changelog ==
+
+= 0.8.2 =
+Updated Readme.txt file for better plugin search matches
 
 = 0.8 =
 First Release to general public on Wordpress.org Plugins Directory. Help us work out bugs!
