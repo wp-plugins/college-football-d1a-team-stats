@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: CFB_D1A Team Stats
-Description: Provides the latest CFB_D1A stats of your CFB_D1A Team, updated regularly throughout the CFB_D1A regular season.
+Plugin Name: NCAA Football Team Stats Division 1A
+Description: Provides the latest NCAA Football stats of your NCAA Division 1A Team, updated regularly throughout the NCAA regular season.
 Author: A93D
-Version: 0.8
+Version: 0.8.1
 Author URI: http://www.thoseamazingparks.com/getstats.php
 */
 
