@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: NCAA College Football Team Stats Division 1A
-Description: Provides the latest NCAA College Football stats of your NCAA Division 1A Team, updated regularly throughout the NCAA regular season.
+Description: Provides the latest NCAA College Football stats of your NCAAF Division 1A Team, updated regularly throughout the NCAA regular season.
 Author: A93D
-Version: 0.8.1
+Version: 0.8.2
 Author URI: http://www.thoseamazingparks.com/getstats.php
 */
 
