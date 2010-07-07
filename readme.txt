@@ -4,7 +4,7 @@ Donate link: http://www.ibet.ws/cfb_d1a_team_stats_page.php
 Tags: college football, ncaa football, ncaaf, college football stats, football, nfl, ncaa football stats, ncaa, ncaa news, sports stats, stats, divion 1 football, ncaa divion 1 football, ncaa d1
 Requires at least: 2.2.0
 Tested up to: 3.0
-Stable tag: 0.8.1
+Stable tag: 0.8.2
 
 NCAA Football Team Stats Division 1A Team Stats allows bloggers display an NCAAF Football team's standings within their sidebar.
 
